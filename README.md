@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0258-add-digits) |
+| [2507-number-of-common-factors](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2507-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0258-add-digits) |
+| [2507-number-of-common-factors](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2507-number-of-common-factors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
