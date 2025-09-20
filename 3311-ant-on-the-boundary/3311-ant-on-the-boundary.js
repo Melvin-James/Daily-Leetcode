@@ -1,7 +1,3 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
 var returnToBoundaryCount = function(nums) {
     let location=0;
     let count =0;
