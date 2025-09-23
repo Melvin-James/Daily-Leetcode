@@ -10,7 +10,7 @@ var uniqueOccurrences = function(arr) {
     let array=Object.values(occurance);
     let res = array.filter((ele,index,array)=>{return array.indexOf(ele)!==index});
     let count=0;
-    let c = res.map((ele)=>count++);
+    res.map((ele)=>count++);
     if(count===0){
         return true;
     }else{
