@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1319-unique-number-of-occurrences](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3311-ant-on-the-boundary](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
