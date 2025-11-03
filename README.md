@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Stack
