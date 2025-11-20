@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2507-number-of-common-factors](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2507-number-of-common-factors) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3311-ant-on-the-boundary](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Stack
 |  |
 | ------- |
