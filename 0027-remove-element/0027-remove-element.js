@@ -1,15 +1,10 @@
-/**
- * @param {number[]} nums
- * @param {number} val
- * @return {number}
- */
 var removeElement = function(nums, val) {
-    let length = nums.length-1;
+    let pointer = 0;
     for(let i=0;i<nums.length;i++){
-        if(nums[i]===val){
-           nums.splice(i,1);
-           i--
+        if(nums[i]!==val){
+           nums[pointer] = nums[i];
+           pointer++;
         }
     }
-    return nums.length;
+    return pointer;
 };
