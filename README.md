@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2235-add-two-integers](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2235-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2507-number-of-common-factors) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
