@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2235-add-two-integers](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2235-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2507-number-of-common-factors) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
