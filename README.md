@@ -231,4 +231,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
