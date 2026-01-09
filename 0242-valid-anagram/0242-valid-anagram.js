@@ -5,13 +5,20 @@
  */
 var isAnagram = function(s, t) {
     if(s.length!==t.length) return false;
-    let count = {};
-    for(let char of s){
-        count[char]=(count[char]||0)+1;
+    const ht = new Map();
+    for(let w of s){
+        ht.set(w,(ht.get(w)||0)+1);
     }
-    for(let char of t){
-        if(!count[char]) return false;
-        count[char]--;
+    for(let w of t){
+        if(!ht.has(w)){
+            return false;
+        }
+        ht.set(w,ht.get(w)-1);
+    }
+    for(let count of ht.values()){
+        if(count!==0){
+            return false;
+        }
     }
     return true;
 };
