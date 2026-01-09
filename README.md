@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2460-apply-operations-to-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3311-ant-on-the-boundary](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
