@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Array
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1534-count-good-triplets) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2507-number-of-common-factors](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2507-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Hash Table
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Stack
