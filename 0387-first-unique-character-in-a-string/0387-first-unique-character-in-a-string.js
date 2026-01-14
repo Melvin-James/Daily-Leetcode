@@ -3,14 +3,12 @@
  * @return {number}
  */
 var firstUniqChar = function(s) {
-    const ht = {};
+    let freq = new Map();
     for(let i=0;i<s.length;i++){
-        ht[s[i]]=(ht[s[i]]||0)+1;
+        freq.set(s[i],(freq.get(s[i])||0)+1);
     }
     for(let i=0;i<s.length;i++){
-        if(ht[s[i]]===1){
-            return i;
-        }
+        if(freq.get(s[i])===1) return i;
     }
     return -1;
 };
