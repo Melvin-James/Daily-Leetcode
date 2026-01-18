@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2490-circular-sentence](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2490-circular-sentence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
