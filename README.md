@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1534-count-good-triplets) |
 | [1929-concatenation-of-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
