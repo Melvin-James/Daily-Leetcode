@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
