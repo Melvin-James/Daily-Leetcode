@@ -1,14 +1,16 @@
 /**
  * @param {string[]} strs
  * @return {string}
+
+ 
  */
-class Node{
+ class Node{
     constructor(){
         this.children = {};
         this.isWordEnd = false;
     }
-}
-class Trie{
+ }
+ class Trie{
     constructor(){
         this.root = new Node();
     }
@@ -22,8 +24,8 @@ class Trie{
         }
         current.isWordEnd = true;
     }
-    longestCommonPrefix(){
-        let prefix = "";
+    longestPrefix(){
+        let prefix = '';
         let node = this.root;
         while(true){
             let keys = Object.keys(node.children);
@@ -34,12 +36,12 @@ class Trie{
         }
         return prefix;
     }
-}
+ }
 var longestCommonPrefix = function(strs) {
     if(strs.length===0) return "";
-    const trie = new Trie();
+    let trie = new Trie();
     for(let str of strs){
         trie.insert(str);
     }
-    return trie.longestCommonPrefix();
+    return trie.longestPrefix();
 };
