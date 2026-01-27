@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3311-ant-on-the-boundary](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [2109-adding-spaces-to-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2490-circular-sentence](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2490-circular-sentence) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
