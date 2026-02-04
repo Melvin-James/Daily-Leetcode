@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2540-minimum-common-value](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3295-report-spam-message](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3295-report-spam-message) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
