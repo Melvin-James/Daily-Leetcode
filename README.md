@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1534-count-good-triplets) |
+| [1550-three-consecutive-odds](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
