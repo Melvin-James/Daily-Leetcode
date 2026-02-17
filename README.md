@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3618-split-array-by-prime-indices](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3618-split-array-by-prime-indices) |
 ## Simulation
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2507-number-of-common-factors](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2507-number-of-common-factors) |
+| [3618-split-array-by-prime-indices](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3618-split-array-by-prime-indices) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3618-split-array-by-prime-indices](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3618-split-array-by-prime-indices) |
 ## Prefix Sum
 |  |
 | ------- |
