@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1014-k-closest-points-to-origin](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1492-the-kth-factor-of-n](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2235-add-two-integers](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2235-add-two-integers) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Design
 |  |
 | ------- |
