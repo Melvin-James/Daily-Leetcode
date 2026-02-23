@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0942-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0500-keyboard-row) |
+| [0942-di-string-match](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0942-di-string-match) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0500-keyboard-row) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0739-daily-temperatures) |
+| [0942-di-string-match](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0942-di-string-match) |
 | [0948-sort-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
