@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3618-split-array-by-prime-indices](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3618-split-array-by-prime-indices) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2507-number-of-common-factors](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2507-number-of-common-factors) |
 | [3618-split-array-by-prime-indices](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3618-split-array-by-prime-indices) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
