@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1492-the-kth-factor-of-n](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2235-add-two-integers](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2235-add-two-integers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2507-number-of-common-factors](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2507-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2460-apply-operations-to-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
