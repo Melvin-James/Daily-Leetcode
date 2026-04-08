@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0500-keyboard-row) |
 | [0942-di-string-match](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0942-di-string-match) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0739-daily-temperatures) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
