@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0500-keyboard-row) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0706-design-hashmap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0739-daily-temperatures) |
 | [0942-di-string-match](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0942-di-string-match) |
 | [0948-sort-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0948-sort-an-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0500-keyboard-row) |
+| [0706-design-hashmap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0706-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -399,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
