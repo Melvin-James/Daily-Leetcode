@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2507-number-of-common-factors](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2507-number-of-common-factors) |
+| [2652-sum-multiples](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
