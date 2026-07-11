@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0942-di-string-match](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0942-di-string-match) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0706-design-hashmap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0706-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
@@ -419,5 +422,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
