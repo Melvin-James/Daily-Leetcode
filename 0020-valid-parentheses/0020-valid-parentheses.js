@@ -3,23 +3,24 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-    const stack =[];
-    for(let i=0;i<s.length;i++){
-        const char = s[i];
-        if(char==='(' || char==='[' || char ==='{' ){
-            stack.push(char);
-        }else if(char===')'||char===']'||char==='}'){
-            if(isEmpty(stack)){
-                return false;
-            }
+    const stack = [];
+    const strs = s.split('');
+    if(s.length === 1){
+        return false;
+    }
+    for(let ch of strs){
+        if(ch === '(' || ch === '[' || ch === '{'){
+            stack.push(ch);
+        }else if (ch === ')' || ch === ']' || ch === '}'){
             const top = stack.pop();
-            if(char===')' && top!=='(' || char===']' && top!=='[' || char==='}' && top!=='{'){
+            if(ch === ')' && top !== '(' || ch === ']' && top !== '[' || ch === '}' && top !== '{'){
                 return false;
-            }
+            } 
         }
     }
-    return isEmpty(stack);
+    if(stack.length===0){
+        return true;
+    }else{
+        return false;
+    }
 };
-function isEmpty(stack){
-    return stack.length===0;
-}
