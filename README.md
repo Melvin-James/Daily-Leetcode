@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0707-design-linked-list) |
 | [0969-number-of-recent-calls](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
