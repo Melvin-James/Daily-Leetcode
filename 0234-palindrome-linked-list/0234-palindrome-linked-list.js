@@ -11,24 +11,32 @@
  */
 var isPalindrome = function(head) {
     if(!head || !head.next) return true;
-    let fast = head;
     let slow = head;
+    let fast = head;
+
     while(fast && fast.next){
+        prev1 = slow;
         slow = slow.next;
         fast = fast.next.next;
     }
+
     let prev = null;
-    let cur = slow;
-    while(cur){
-        let next = cur.next;
-        cur.next = prev;
-        prev = cur;
-        cur = next;
+    let curr = slow;
+
+    while(curr){
+        let next = curr.next;
+        curr.next = prev;
+        prev = curr;
+        curr = next;
     }
+
     let left = head;
     let right = prev;
+
     while(right){
-        if(left.val!==right.val) return false;
+        if(right.val !== left.val){
+            return false;
+        }
         left = left.next;
         right = right.next;
     }
