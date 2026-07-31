@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2109-adding-spaces-to-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3311-ant-on-the-boundary](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2540-minimum-common-value) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0338-counting-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0868-binary-gap) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Design
 |  |
 | ------- |
