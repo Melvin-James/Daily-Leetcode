@@ -3,11 +3,13 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
-    let t = x.toString();
+    x = String(x);
     let left = 0;
-    let right = t.length-1;
-    while(left<right){
-        if(t[left]!==t[right]) return false;
+    let right = x.length - 1;
+    while(left < right){
+        if(x[left]!==x[right]){
+            return false;
+        }
         left++;
         right--;
     }
