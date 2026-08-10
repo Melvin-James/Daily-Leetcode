@@ -5,10 +5,17 @@
  */
 var isSubsequence = function(s, t) {
     let i = 0;
-   for(let j=0;j<t.length;j++){
-    if(s[i]===t[j]){
-        i++
+    for(let j=0;j<t.length;j++){
+        if(i===s.length){
+            break;
+        }
+        if(s[i]===t[j]){
+            i++;
+        }
     }
-   }
-   return i===s.length ? true : false;
+    if(i===s.length){
+        return true;
+    }else{
+        return false;
+    }
 };
