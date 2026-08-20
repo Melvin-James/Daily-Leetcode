@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3311-ant-on-the-boundary](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Melvin-James/Daily-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3295-report-spam-message](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3295-report-spam-message) |
 | [3311-ant-on-the-boundary](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3311-ant-on-the-boundary) |
