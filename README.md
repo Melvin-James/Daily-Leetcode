@@ -397,16 +397,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/Melvin-James/Daily-Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Quickselect
 |  |
