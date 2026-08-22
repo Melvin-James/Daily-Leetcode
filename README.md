@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3618-split-array-by-prime-indices](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3618-split-array-by-prime-indices) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Melvin-James/Daily-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
