@@ -3,12 +3,12 @@
  * @return {boolean}
  */
 var containsDuplicate = function(nums) {
-    const ht = {};
-    for(let i=0;i<nums.length;i++){
-        ht[nums[i]]=(ht[nums[i]]||0)+1;
+    let freq = {};
+    for(let num of nums){
+        freq[num] = (freq[num] || 0) + 1;
     }
-    for(let num in ht){
-        if(ht[num]>1){
+    for(let key in freq){
+        if(freq[key]!==1){
             return true;
         }
     }
