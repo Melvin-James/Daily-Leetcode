@@ -3,11 +3,13 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    let freq = {};
+    let freq = {}
     for(let num of nums){
-        freq[num]=(freq[num]||0)+1;
+        freq[num] = (freq[num] || 0) + 1;
     }
-    for(let key of nums){
-        if(freq[key]===1) return Number(key);
+    for(let key in freq){
+        if(freq[key]===1){
+            return Number(key);
+        }
     }
 };
